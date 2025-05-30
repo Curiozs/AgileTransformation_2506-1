@@ -4,11 +4,19 @@ title: Startseite
 nav_order: 1
 ---
 
-# Willkommen bei unserer Dokumentation!
+# Agile Transformation: Warum die Daten für sich sprechen
+*Ein datengetriebener Blick auf den Erfolg agiler Arbeitsweisen (06.25)* 
 
-Dies ist die Startseite unserer agilen Transformationsdoku.
+Willkommen zu dieser Beitragsreihe zur agilen Transformation!
 
-## weitere Dokumente
+In Teil 1 von 4 tauchen wir in die Grundlagen und den Business Impact agiler Arbeitsweisen ein und zeigen auf, warum "agil" nicht nur eine Modeerscheinung ist!
 
-{% include_relative docs/first-doc.md %}
-{% include_relative docs/second-doc.md %}
+Viel Spaß beim Lesen und Entdecken!
+
+----
+{% include_relative docs/executive_summary.md %}
+{% include_relative docs/herausforderung.md %}
+{% include_relative docs/loesung.md %}
+{% include_relative docs/praxisbeispiel.md %}
+{% include_relative docs/fazit.md %}
+{% include_relative docs/autor.md %}
