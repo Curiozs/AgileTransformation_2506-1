@@ -1,3 +1,4 @@
+
 ## IV. Praxisbeispiel: Das Power BI Dashboard
 
 ### "Agile Transformation Impact Analyzer" (Template zum Download)
