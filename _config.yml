@@ -10,7 +10,7 @@ remote_theme: just-the-docs/just-the-docs@v0.6.0 # Verwende eine spezifische Ver
 color_scheme: light
 search_enabled: true
 nav_external_links: true
-markdown: kramdown # Use Kramdown for Markdown processing
+footer_custom: "bestes theme ever"
 
 # Jekyll build settings
 # Exclude files/folders that Jekyll should ignore during the build
