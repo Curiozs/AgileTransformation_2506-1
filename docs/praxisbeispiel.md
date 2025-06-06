@@ -3,7 +3,7 @@
 
 ### "Agile Transformation Impact Analyzer"
 
-*(verfügbar zur einem späteren Zeitpunkt)*
+*(verfügbar zu einem späteren Zeitpunkt)*
 
 Um die theoretischen Vorteile und die Studienergebnisse greifbar zu machen, haben wir ein interaktives Power BI Dashboard als Template entwickelt. Dieses Tool visualisiert exemplarisch, wie sich wichtige Metriken durch die Einführung agiler Methoden verbessern können und bietet Ihnen einen datengetriebenen Einblick in das Potenzial agiler Transformationen, das Sie direkt in Ihrem Unternehmen anwenden können.
 - **Wichtige Erkenntnisse**, die Sie mit diesem Dashboard gewinnen können:
