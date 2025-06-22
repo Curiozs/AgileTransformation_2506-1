@@ -3,8 +3,6 @@
 
 ### "Agile Transformation Impact Analyzer"
 
-*(verfügbar zu einem späteren Zeitpunkt)*
-
 Um die theoretischen Vorteile und die Studienergebnisse greifbar zu machen, haben wir ein interaktives Power BI Dashboard als Template entwickelt. Dieses Tool visualisiert exemplarisch, wie sich wichtige Metriken durch die Einführung agiler Methoden verbessern können und bietet Ihnen einen datengetriebenen Einblick in das Potenzial agiler Transformationen, das Sie direkt in Ihrem Unternehmen anwenden können.
 - **Wichtige Erkenntnisse**, die Sie mit diesem Dashboard gewinnen können:
     - **Time-to-Market Reduktion:** Verfolgen Sie, wie sich die durchschnittliche Zeit von der Idee bis zur Markteinführung nach der Einführung agiler Sprints signifikant verkürzt. Das Dashboard zeigt hier eine klare Abnahme der benötigten Zeit, was die Fähigkeit des Unternehmens zur schnellen Wertlieferung unterstreicht und einen entscheidenden Wettbewerbsvorteil darstellt.
